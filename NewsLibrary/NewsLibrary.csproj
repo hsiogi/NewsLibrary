@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <Description>news rss helper class</Description>
+    <RepositoryUrl>https://github.com/hsiogi/NewsLibrary</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/hsiogi/NewsLibrary</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
